@@ -67,5 +67,6 @@
     "eject": "expo eject",
     "run-preview": "npx expo start --no-dev --minify"
   },
+  "type": "module",
   "private": true
 }
